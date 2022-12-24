@@ -174,14 +174,13 @@ html, body{
   border: 1px solid var(--clr-light);
 }
 
-
 @media(max-width:600px){
     .wrapper{
       border-radius: 0;
       margin: 0;
       min-height: 100vh;
       height: 100%;
-      padding: 1em 3em;
+      padding: 1em 2em;
     }
     .quiz-container{
       overflow: auto;
