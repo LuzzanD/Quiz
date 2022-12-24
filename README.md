@@ -1,7 +1,7 @@
 # Quizical
 
-React Solo Project
-Fully responsive Quiz project done solo as a challenge on Frontend career path at Scrimba.com 
+- React Solo Project
+- Fully responsive Quiz project done solo as a challenge on Frontend career path at Scrimba.com 
 
 ## Technologies:
 
