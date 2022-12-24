@@ -9,3 +9,5 @@
 * CSS
 * JavaScript
 * React
+
+### Netlify link - https://andrijasquizical.netlify.app
